@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MusicPlayer - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Hao\AppData\Local\Temp\RSPEADE.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/MusicPlayer.pdb" /debug /machine:I386 /out:"Debug/MusicPlayer.exe" /pdbtype:sept 
+.\Debug\MusicPlayer.obj
+.\Debug\MusicPlayerDlg.obj
+.\Debug\StdAfx.obj
+.\Debug\MusicPlayer.res
+.\Debug\wmpclosedcaption.obj
+.\Debug\wmpplaylist.obj
+.\Debug\wmpcdromcollection.obj
+.\Debug\wmperroritem.obj
+.\Debug\wmpmedia.obj
+.\Debug\wmpnetwork.obj
+.\Debug\wmpplaylistcollection.obj
+.\Debug\wmpstringcollection.obj
+.\Debug\wmpmediacollection.obj
+.\Debug\wmpcdrom.obj
+.\Debug\wmpplaylistarray.obj
+.\Debug\wmpcontrols.obj
+.\Debug\wmpdvd.obj
+.\Debug\wmpplayer4.obj
+.\Debug\wmpplayerapplication.obj
+.\Debug\wmpsettings.obj
+.\Debug\wmperror.obj
+]
+Creating command line "link.exe @C:\Users\Hao\AppData\Local\Temp\RSPEADE.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+MusicPlayer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
