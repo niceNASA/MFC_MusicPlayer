@@ -22,6 +22,10 @@
 
 - 暂停：暂停当前播放的歌曲
 
+### 主界面截图
+
+![photo](https://github.com/niceNASA/MFC_MusicPlayer/blob/main/%E4%B8%BB%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
+
 
 
 Copyright (c) 2020 niceNASA
